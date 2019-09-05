@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.myScriptInclude",
+  "client_callable": false,
+  "description": null,
+  "name": "myScriptInclude",
+  "script": {
+    "____see": "sn\\Global\\Script Include\\active_true\\global.myScriptInclude.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-05 07:06:37",
+  "sys_id": "91c755882ff3b3008ae5ddda2799b6ff",
+  "sys_mod_count": 0,
+  "sys_name": "myScriptInclude",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_include_91c755882ff3b3008ae5ddda2799b6ff",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-05 07:06:37"
+}
